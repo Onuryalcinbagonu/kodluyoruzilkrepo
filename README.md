@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [www.patika.dev](https://www.patika.dev/) Git Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [www.patika.dev](https://www.patika.dev/) Git Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. Projeyi oluşturan kişinin www.patika.dev linki için [https://app.patika.dev/onuryalcin](tıklayınız.)
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
