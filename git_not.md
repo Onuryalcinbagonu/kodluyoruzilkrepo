@@ -97,12 +97,12 @@ Stash listesini temizlemek için aşağıdaki komut satırı yazılır.
 ```
 git stash clear
 ```
-Tüm projenin main/master branchi üzerinde olabilmesi için diğer branchlerin merge edilmesi yani birleştirilmesi gerekmektedir.Bunun için aşağıdaki komut satırı yazılır.Böylelikle tüm (hem header hem de main) commitleride getirir. 
+Tüm projenin main/master branchi üzerinde olabilmesi için diğer branchlerin merge edilmesi yani birleştirilmesi gerekmektedir.Bunun için aşağıdaki komut satırı yazılır.Böylelikle tüm (hem header hem de main) commitleride getirir.Header branch olarak 30 commit varsa onlarıda getirir.
 
 ```
 git merge mainIleBirlesecekBranchIsmi
 ```
-Branchler merge edilince bir commit fırsatı sunulması aşağıdaki komut satırı yazılır
+Branchler merge edilince bir commit fırsatı sunulması aşağıdaki komut satırı yazılır. Sadece bir genel bir commit istenildiği zaman **--squash** ile yazılır. Diğer footer branchına ait commitler gelmez
 ```
 git merge --squash mainIleBirlesecekBranchIsmi
 git commit -m "mainIleBirlesecekBranchIsmi isimli branch ile birleştirildi"
