@@ -5,14 +5,11 @@ Aşağıdaki komut satırı klasör içerisindeki dosya ve dizinleri gösterir.
 ```
 ls -al
 ```
-<<<<<<< HEAD
 
 Jira üzerinden gelen bir görevin commiti aşağıdaki şekilde belirtilerek atılmalıdır.
 ```
 git commit -m "[issueId service:Jira] fileName created"
 ```
-=======
->>>>>>> 9e3e8bafcd89d0065ae98f264ee1b2ba1169fcc8
 Aşağıdaki komut satırı commit atmadan commit içeriğini değiştirmeye yarar.
 
 ```git
