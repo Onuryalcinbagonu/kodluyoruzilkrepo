@@ -1,17 +1,17 @@
 # Master1
 Burada bir açıklama gerçekleşmektedir.
 ## Bu Yeni Bir Başlık
-
+Aşağıdaki komut satırı klasör içerisindeki dosya ve dizinleri gösterir.
 ```
 ls -al
 ```
-Klasör içerisindeki dosya ve dizinleri gösterir.
+Aşağıdaki komut satırı commit atmadan commit içeriğini değiştirmeye yarar.
 
 ```git
 git add index.md
 git commit --amend
 ```
-Ya da hem ekleyip mesaj değişmesini istemezsek
+Ya da hem ekleyip mesaj değişmesini istersek aşağıdaki komut satırını yazarız.
 ```git
 git add index.md
 git commit --amend "Yeni Commit Mesajı" 
@@ -97,7 +97,7 @@ Stash listesini temizlemek için aşağıdaki komut satırı yazılır.
 ```
 git stash clear
 ```
-Tüm projenin main/master branchi üzerinde olabilmesi için diğer branchlerin merge edilmesi yani birleştirilmesi gerekmektedir.Bunun için aşağıdaki komut satırı yazılır.Böylelikle tüm (hem header hem de main) commitleride getirir.Header branch olarak 30 commit varsa onlarıda getirir.
+Tüm projenin main/master branchi üzerinde olabilmesi için diğer branchlerin merge edilmesi yani birleştirilmesi gerekmektedir.Bunun için aşağıdaki komut satırı yazılır.Böylelikle tüm (hem header hem de main) commitleride getirir.Header branch olarak 30 commit varsa onlarıda getirir.Historyler gelir.
 
 ```
 git merge mainIleBirlesecekBranchIsmi
@@ -107,6 +107,16 @@ Branchler merge edilince bir commit fırsatı sunulması aşağıdaki komut sat�
 git merge --squash mainIleBirlesecekBranchIsmi
 git commit -m "mainIleBirlesecekBranchIsmi isimli branch ile birleştirildi"
 ```
+Bir diğer birleştirme yöntemi ise rebasedir.Bu birleştirme yönteminde commitleri main/master branchin sonuna ekler.Mergete ise tarihe göre ekler. 
+```
+git checkout ana-dal
+git rebase feature-dal
+```
+Eğer merge veya rebase yaparken mesela main dalında ve diğer dalda (header vb) aynı dosya üzerinde çalışılabilir.Bu durumda hata alınırsa aşağıdaki komut satırı ile işlemler geri alınabilir.Yahut isteğinize göre kabul gören değişikliği seçebilirsiniz.
+```
+git merge --abort
+```
+**Not:** Branch push yapıldıysa merge yoksa rebase kullanılmalı.
 ## Notlar
 
 * Commit listesini nasıl görürüz? git log
