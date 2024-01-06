@@ -66,7 +66,7 @@ Hem branch oluşturmak ve o branche geçiş yapmak için aşağıdaki komut sat�
 ```
 git checkout -b branchName
 ```
-Bir branchi silmek için aşağıdaki komut satırını yazarız.Herhangi bir mastera geçiş yapılır sonra silinir.
+Bir branchi silmek için aşağıdaki komut satırını yazarız.Geçiş yapılan branche geçiş yapılır sonra silinir.
 ```
 git checkout gecisyapilacakBranch
 git branch -D silinecekBranch
