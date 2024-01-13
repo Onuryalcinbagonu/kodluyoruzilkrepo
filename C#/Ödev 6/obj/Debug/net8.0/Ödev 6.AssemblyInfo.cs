@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ödev 6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37db3cd492d85554f963eaebb223ee9c69f4c4be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+516e1a42fb3b3bf3f0c880ce28d63562e33849fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ödev 6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ödev 6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

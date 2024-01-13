@@ -1,46 +1,28 @@
-﻿int month =DateTime.Now.Month;
-
-//Expression
-switch(month)
+﻿string[] dizi=new string[6];
+string bos="";
+char c='#';
+string bs=" ";
+byte uz=Convert.ToByte(dizi.Length);
+for (int i=0;i<dizi.Length;i++)
 {
-    case 1: 
-        Console.WriteLine("Ocak ayındasınız!");
-        break;
-    case 2: 
-        Console.WriteLine("Şubat ayındasınız!");
-        break;
-    case 4: 
-        Console.WriteLine("Nisan ayındasınız!");
-        break;
-    case 3: 
-        Console.WriteLine("Ocak ayındasınız!");
-        break;
-    default:
-        Console.WriteLine("Yanlış veri girişi!");
-        break;
+    for (int w = 2; w < uz; w++)
+    {
+        bs=bs+" ";
+    }
+
+bos=bos+c;
+if(i+1==dizi.Length)
+{dizi[i]=bos;}
+else
+{
+dizi[i]=bs+bos;
+bs=" ";
+uz-=1;
+} 
+
+Console.WriteLine(dizi[i]);
+
 }
 
-switch (month)
-{
-    case 12:
-    case 1:
-    case 2:
-        Console.WriteLine("Kış ayındasınız!");
-        break;
-    case 3:
-    case 4:
-    case 5:
-        Console.WriteLine("İlkbahar ayındasınız!");
-        break;
-    case 6:
-    case 7:
-    case 8:
-    Console.WriteLine("Yaz ayındasınız!");
-    break;      
-    case 9:
-    case 10:
-    default:
-    case 11:
-    Console.WriteLine("Sonbahar ayındasınız!");
-    break;
-}
+
+

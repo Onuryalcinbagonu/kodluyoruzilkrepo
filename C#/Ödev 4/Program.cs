@@ -34,9 +34,6 @@ catch(FormatException ex)
 }
 catch(OverflowException ex)
 {
-    Console.WriteLine("Çok küçük ya da çok büyük bir değer girdiniz.");
+    Console.WriteLine("Çok küçük ya da çok büyük bir");
     Console.WriteLine(ex);
-}
-finally{
-    System.Console.WriteLine("İşlem başarıyla tamamlandı.");
 }

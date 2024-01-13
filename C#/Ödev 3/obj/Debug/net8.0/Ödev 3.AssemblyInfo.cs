@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ödev 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ec5deeb440a654f84b42ad075574d8396ec70c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4bd864a5ce613116add12452b80d71615b0bb3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ödev 3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ödev 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
