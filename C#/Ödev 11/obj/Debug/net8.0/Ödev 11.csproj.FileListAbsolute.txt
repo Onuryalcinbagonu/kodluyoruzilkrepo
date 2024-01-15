@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\Ödev 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\Ödev 11.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\Ödev 11.AssemblyInfo.cs
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\Ödev 11.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\Ödev 11.sourcelink.json
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\bin\Debug\net8.0\Ödev 11.exe
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\bin\Debug\net8.0\Ödev 11.deps.json
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\bin\Debug\net8.0\Ödev 11.runtimeconfig.json
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\bin\Debug\net8.0\Ödev 11.dll
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\bin\Debug\net8.0\Ödev 11.pdb
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\Ödev 11.dll
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\refint\Ödev 11.dll
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\Ödev 11.pdb
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\Ödev 11.genruntimeconfig.cache
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 11\obj\Debug\net8.0\ref\Ödev 11.dll
