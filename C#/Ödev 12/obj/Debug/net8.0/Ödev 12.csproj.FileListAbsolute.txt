@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\bin\Debug\net8.0\Ödev 12.exe
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\bin\Debug\net8.0\Ödev 12.deps.json
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\bin\Debug\net8.0\Ödev 12.runtimeconfig.json
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\bin\Debug\net8.0\Ödev 12.dll
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\bin\Debug\net8.0\Ödev 12.pdb
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\Ödev 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\Ödev 12.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\Ödev 12.AssemblyInfo.cs
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\Ödev 12.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\Ödev 12.sourcelink.json
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\Ödev 12.dll
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\refint\Ödev 12.dll
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\Ödev 12.pdb
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\Ödev 12.genruntimeconfig.cache
+C:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 12\obj\Debug\net8.0\ref\Ödev 12.dll
