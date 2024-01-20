@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 18\\Ödev 18.csproj": {}
+    "c:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 19\\Ödev 19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 18\\Ödev 18.csproj": {
+    "c:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 19\\Ödev 19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 18\\Ödev 18.csproj",
-        "projectName": "Ödev 18",
-        "projectPath": "C:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 18\\Ödev 18.csproj",
+        "projectUniqueName": "c:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 19\\Ödev 19.csproj",
+        "projectName": "Ödev 19",
+        "projectPath": "c:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 19\\Ödev 19.csproj",
         "packagesPath": "C:\\Users\\USER-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 18\\obj\\",
+        "outputPath": "c:\\Users\\USER-PC\\Desktop\\Pt\\odev1\\kodluyoruzilkrepo\\C#\\Ödev 19\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
