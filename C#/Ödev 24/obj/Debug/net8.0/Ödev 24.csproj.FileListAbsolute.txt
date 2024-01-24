@@ -1,0 +1,15 @@
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\bin\Debug\net8.0\Ödev 24.exe
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\bin\Debug\net8.0\Ödev 24.deps.json
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\bin\Debug\net8.0\Ödev 24.runtimeconfig.json
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\bin\Debug\net8.0\Ödev 24.dll
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\bin\Debug\net8.0\Ödev 24.pdb
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\Ödev 24.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\Ödev 24.AssemblyInfoInputs.cache
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\Ödev 24.AssemblyInfo.cs
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\Ödev 24.csproj.CoreCompileInputs.cache
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\Ödev 24.sourcelink.json
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\Ödev 24.dll
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\refint\Ödev 24.dll
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\Ödev 24.pdb
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\Ödev 24.genruntimeconfig.cache
+c:\Users\USER-PC\Desktop\Pt\odev1\kodluyoruzilkrepo\C#\Ödev 24\obj\Debug\net8.0\ref\Ödev 24.dll
