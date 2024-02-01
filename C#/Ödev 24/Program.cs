@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Çalışan Sayısı: {0} ",Calisan.CalisanSayisi);
-//static olarak oluşturulan sınıfa 1 kere girerek çalışmaya başlar. Yani işlksınıf oluşturulurken
+//static olarak oluşturulan sınıfa 1 kere girerek çalışmaya başlar. Yani ilksınıf oluşturulurken
 Calisan calisan=new Calisan("Ayşe","Yılmaz","İk");
 Console.WriteLine("Çalışan Sayısı: {0} ",Calisan.CalisanSayisi);
 Calisan calisan1=new Calisan("Ali","Veli","İk");
